@@ -17,6 +17,11 @@ Useful resources (without particular order)
 - persist (memory, disk)
 - Creating RDD (parallelize(), load from external storage: textFile())
 - Lineage graph
+- ETL (Extract, Transform, Load)
+- Pair RDD: reduceByKey(), groupByKey(), combineByKey(), mapValues()
+- repartition(), coalesce()
+- joins
+- HashPartitioner
 
 ### DataFrame
 
