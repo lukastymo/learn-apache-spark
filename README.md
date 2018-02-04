@@ -11,7 +11,6 @@ Useful resources (without particular order)
 - SparkContext
 - reduce(), fold()
 - Persistence levels: MEMORY_ONLY, MEMORY_ONLY_SER, MEMORY_AND_DISK, MEMORY_AND_DISK_SER, DISK_ONLY
-- 
 
 ### RDD
 - Partitions
